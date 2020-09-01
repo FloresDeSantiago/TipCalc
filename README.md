@@ -2,7 +2,7 @@
 
 **TipCalc** is a tip calculator application for iOS.
 
-Submitted by: **Aldo Flores**
+Submitted by: **Aldo Flores De Santiago**
 
 Time spent: **2** hours spent in total
 
@@ -28,7 +28,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://imgur.com/3sEmU4w.gif' width=250  />
+<img src='https://imgur.com/a/tOPT3J3.gif' width=250  />
 
 
 ## Notes
@@ -37,7 +37,7 @@ Using the trackpad instead of a mouse on my Macbook made the dragging and droppi
 
 ## License
 
-    Copyright [2020] [Aldo Flores]
+    Copyright [2020] [Aldo Flores De Santiago]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
